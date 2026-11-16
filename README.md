@@ -1,47 +1,31 @@
- <div align="center">
+# [x8r](https://x8r.dev)
+fullstack developer and web porter. i've probably helped with one of your favorite (unblocker) sites!
 
-## About
+## projects i own/help with
+- [breeze](https://breezeunb.locker) (owner)
+- [cherri](https://cherrion.top/) (founder/ex-owner)
+- [gmshelf](https://github.com/gmshelf) (owner)
+- [fern](https://fern.best/) (helper)
+- [lucide](https://cdn.jsdelivr.net/gh/lucideproxy/svg/index.svg)
+- [quasar](https://visaliainvitational.com/)
+- [vortex](https://vtx.chat)
+- [nautilusOS](https://nautilus-os.vercel.app/)
+- [gust](https://github.com/nautilus-os/gust)
+- [toustream](https://toustream.xyz/)
+- [wasm.rip](https://wasm.rip)
+- [nocturne.lol](https://nocturne.lol)
+- [chillzone](https://chillzone.dev)
 
-Independent developer focused on building web applications, experimenting with new technologies, and developing software projects.
+## my apis/libs
+- [x8rr/manga](https://github.com/x8rr/manga)
+- [x8rr/movies](https://github.com/x8rr/movies)
+- [x8rr/music](https://github.com/x8rr/music)
+- [x8rr/stratus-api](https://github.com/x8rr/stratus-api)
+- [x8rr/sapphire](https://github.com/x8rr/sapphire)
+- [gmshelf](https://github.com/gmshelf)
 
-Interested in frontend development, APIs, web infrastructure, and application design.
+## my webports
+- [crashout crew](https://wasm.rip/files/cc/index.html)
+- mc dungeons (wip)
 
-[![Repositories](https://img.shields.io/badge/Explore_Repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME?tab=repositories)
-
-</div>
-
----
-
-## Projects
-
-### District
-
-A browser-based platform bringing together unblocked games, AI, browsing, and search in one place.
-
-[View Repository](YOUR_DISTRICT_REPOSITORY_URL)
-
-### The Proton Archives
-
-A web-based archive of games, applications, and tools, designed around accessibility and browser-based functionality.
-
-[View Repository](YOUR_PROTON_ARCHIVES_REPOSITORY_URL)
-
-### Proxy File Storage
-
-A project exploring proxy-based file storage and file access through web technologies.
-
-[View Repository](YOUR_PROXY_STORAGE_REPOSITORY_URL)
-
----
-
-## Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,cloudflare,firebase,github" height="36" />
-</p>
-
----
-
-<p align="center">
-  <sub>Developing independent projects and exploring new technologies.</sub>
-</p>
+check pinned repos
