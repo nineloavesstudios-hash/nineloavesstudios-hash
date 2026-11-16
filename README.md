@@ -1,14 +1,12 @@
-# 
-
-<div align="center">
+ <div align="center">
 
 ## About
 
-Independent developer interested in web development, software, and technology.
+Independent developer focused on building web applications, experimenting with new technologies, and developing software projects.
 
-I build web applications, experiment with APIs, and explore new ideas through personal projects.
+Interested in frontend development, APIs, web infrastructure, and application design.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Repositories](https://img.shields.io/badge/Explore_Repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME?tab=repositories)
 
 </div>
 
@@ -16,34 +14,34 @@ I build web applications, experiment with APIs, and explore new ideas through pe
 
 ## Projects
 
-### [District](#)
-A web platform focused on unblocked games, AI tools, browsing, and search. Designed to bring multiple web experiences together in one accessible platform.
+### District
 
-### [The Proton Archives](#)
-A collection of web-based tools, games, and applications, built around accessibility and browser-based experiences.
+A browser-based platform bringing together unblocked games, AI, browsing, and search in one place.
 
-### [Proxy File Storage](#)
-A project focused on proxy-based file storage and accessing files through web technologies.
+[View Repository](YOUR_DISTRICT_REPOSITORY_URL)
 
-*Visit my repositories under each project name to explore their source code and development.*
+### The Proton Archives
+
+A web-based archive of games, applications, and tools, designed around accessibility and browser-based functionality.
+
+[View Repository](YOUR_PROTON_ARCHIVES_REPOSITORY_URL)
+
+### Proxy File Storage
+
+A project exploring proxy-based file storage and file access through web technologies.
+
+[View Repository](YOUR_PROXY_STORAGE_REPOSITORY_URL)
 
 ---
 
 ## Technologies
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cloudflare,firebase,github" height="36" />
 </p>
 
 ---
 
-<div align="center">
-
-*Building, experimenting, and improving.*
-
-</div>
+<p align="center">
+  <sub>Developing independent projects and exploring new technologies.</sub>
+</p>
