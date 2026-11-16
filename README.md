@@ -1,7 +1,7 @@
-# [x8r](https://x8r.dev)
-fullstack developer and web porter. i've probably helped with one of your favorite (unblocker) sites!
+# BreadCat
+Single file website developer with experience in apis and small servers
 
-## projects i own/help with
+## Projects I own or help with
 - [breeze](https://breezeunb.locker) (owner)
 - [cherri](https://cherrion.top/) (founder/ex-owner)
 - [gmshelf](https://github.com/gmshelf) (owner)
@@ -16,7 +16,7 @@ fullstack developer and web porter. i've probably helped with one of your favori
 - [nocturne.lol](https://nocturne.lol)
 - [chillzone](https://chillzone.dev)
 
-## my apis/libs
+## Languages I work with
 - [x8rr/manga](https://github.com/x8rr/manga)
 - [x8rr/movies](https://github.com/x8rr/movies)
 - [x8rr/music](https://github.com/x8rr/music)
@@ -24,8 +24,10 @@ fullstack developer and web porter. i've probably helped with one of your favori
 - [x8rr/sapphire](https://github.com/x8rr/sapphire)
 - [gmshelf](https://github.com/gmshelf)
 
-## my webports
-- [crashout crew](https://wasm.rip/files/cc/index.html)
-- mc dungeons (wip)
-
-check pinned repos
+## Upcoming projects
+- [x8rr/manga](https://github.com/x8rr/manga)
+- [x8rr/movies](https://github.com/x8rr/movies)
+- [x8rr/music](https://github.com/x8rr/music)
+- [x8rr/stratus-api](https://github.com/x8rr/stratus-api)
+- [x8rr/sapphire](https://github.com/x8rr/sapphire)
+- [gmshelf](https://github.com/gmshelf)
