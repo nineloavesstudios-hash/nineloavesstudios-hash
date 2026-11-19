@@ -6,6 +6,7 @@ Single-file website developer with experience working with APIs and small server
 
 - [District](https://github.com/nineloavesstudios-hash/District) — Owner
 - [The Proton Archives](https://github.com/nineloavesstudios-hash/The-Proton-Archives) — Owner
+- [Solidify](https://github.com/nineloavesstudios-hash/Solidify) — Owner
 - [Public CDN](https://github.com/Public-CDN) — Owner
 - [GMLibs](https://github.com/GMLibs) — Owner
 - [StudioCraft](https://github.com/StudioCraftWeb) — Owner
